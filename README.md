@@ -255,7 +255,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - Big Data: Principles and Best Practices of Scalable Realtime Data Systems by James Warren
 - 97 Things Every Data Engineer Should Know by Tobias Macey
 
-**List of newsletters**
+**List of newsletters** (I SIGNED UP FOR SOME OF THESE)
 
 - [EcZachly Data Engineering Newsletter](https://blog.dataengineer.io/) by Zach Wilson
 - [SeattleDataGuy’s Newsletter](https://seattledataguy.substack.com/) by SeattleDataGuy
